@@ -24,7 +24,7 @@
         <mxCell id="iUYskXxzN8QttlJP_fRG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.238;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ff9XG5yeoS3sbsgJw9-g-1" target="F0TTq7hDYTpqZRdbd2E6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUYskXxzN8QttlJP_fRG-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;HN:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP:&lt;/div&gt;&lt;div&gt;172.16.120.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ports:&lt;/div&gt;&lt;div&gt;22&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="iUYskXxzN8QttlJP_fRG-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;HN:&lt;div&gt;RED-SCR&lt;/div&gt;&lt;div&gt;IP:&lt;/div&gt;&lt;div&gt;172.16.120.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ports:&lt;/div&gt;&lt;div&gt;22, 80&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="530" y="450" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
