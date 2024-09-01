@@ -18,9 +18,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iUYskXxzN8QttlJP_fRG-8" value="ETH0&lt;div&gt;172.16.120.?&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUYskXxzN8QttlJP_fRG-5">
+        <mxCell id="iUYskXxzN8QttlJP_fRG-8" value="ETH0&lt;div&gt;172.16.120.1/29&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUYskXxzN8QttlJP_fRG-5">
           <mxGeometry x="0.0988" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F0TTq7hDYTpqZRdbd2E6-1" value="INTERNET" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -33,6 +33,16 @@
         </mxCell>
         <mxCell id="iUYskXxzN8QttlJP_fRG-9" value="eth?&lt;div&gt;10.50.37&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUYskXxzN8QttlJP_fRG-1">
           <mxGeometry x="0.0991" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iUYskXxzN8QttlJP_fRG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUYskXxzN8QttlJP_fRG-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iUYskXxzN8QttlJP_fRG-11" value="eth" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUYskXxzN8QttlJP_fRG-10">
+          <mxGeometry x="-0.6895" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
