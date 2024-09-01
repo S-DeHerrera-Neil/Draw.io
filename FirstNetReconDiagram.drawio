@@ -26,24 +26,9 @@
         <mxCell id="F0TTq7hDYTpqZRdbd2E6-1" value="INTERNET" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="482" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iUYskXxzN8QttlJP_fRG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUYskXxzN8QttlJP_fRG-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iUYskXxzN8QttlJP_fRG-11" value="eth2 DMZ&lt;div&gt;172.16.101.30/27&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUYskXxzN8QttlJP_fRG-10">
-          <mxGeometry x="-0.6895" relative="1" as="geometry">
-            <mxPoint x="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iUYskXxzN8QttlJP_fRG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUYskXxzN8QttlJP_fRG-3">
+        <mxCell id="iUYskXxzN8QttlJP_fRG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUYskXxzN8QttlJP_fRG-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iUYskXxzN8QttlJP_fRG-18" value="eth1 REDNET&lt;div&gt;172.16.120.10/29&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUYskXxzN8QttlJP_fRG-12">
-          <mxGeometry x="-0.8412" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iUYskXxzN8QttlJP_fRG-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;HN:&lt;div&gt;RED-SCR&lt;/div&gt;&lt;div&gt;IP:&lt;/div&gt;&lt;div&gt;172.16.120.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ports:&lt;/div&gt;&lt;div&gt;22, 80&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -68,6 +53,34 @@
             <mxPoint x="960" y="630" as="sourcePoint" />
             <mxPoint x="960" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iUYskXxzN8QttlJP_fRG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUYskXxzN8QttlJP_fRG-3" target="iUYskXxzN8QttlJP_fRG-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="840" as="targetPoint" />
+            <mxPoint x="620" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iUYskXxzN8QttlJP_fRG-24" value="eth1 REDNET&lt;div&gt;172.16.120.10/29&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUYskXxzN8QttlJP_fRG-23">
+          <mxGeometry x="-0.8412" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iUYskXxzN8QttlJP_fRG-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUYskXxzN8QttlJP_fRG-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUYskXxzN8QttlJP_fRG-3" target="iUYskXxzN8QttlJP_fRG-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="540" as="targetPoint" />
+            <mxPoint x="710" y="540" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iUYskXxzN8QttlJP_fRG-32" value="eth2 DMZ&lt;div&gt;172.16.101.30/27&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUYskXxzN8QttlJP_fRG-31">
+          <mxGeometry x="-0.6895" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iUYskXxzN8QttlJP_fRG-26" value="172.16.101.0/27" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="870" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
