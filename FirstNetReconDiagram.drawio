@@ -441,16 +441,26 @@
           <mxGeometry x="1235" y="-4250" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-112" value="&lt;div&gt;red-host-3&lt;/div&gt;&lt;div&gt;172.16.182.114&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- default via&amp;nbsp;&lt;/div&gt;&lt;div&gt;172.16.182.126 dev eth0&lt;/div&gt;- 172.16.182.96/27 dev eth0 proto kernel scope link src 172.16.182.114&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="2070" width="160" height="160" as="geometry" />
+          <mxGeometry x="-1430" y="2060" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-113" value="&lt;div&gt;red-host-4&lt;/div&gt;&lt;div&gt;172.16.182.118&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;/div&gt;&lt;div&gt;- default via&amp;nbsp;&lt;/div&gt;&lt;div&gt;172.16.182.126 dev eth0&lt;/div&gt;&lt;div&gt;- 172.16.182.96/27 dev eth0 proto kernel scope link src 172.16.182.118&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="2030" width="160" height="160" as="geometry" />
+          <mxGeometry x="-1150" y="2040" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bfKzPdIwmhbEXRQ9fWQ_-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-780" y="1880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-114" value="&lt;div&gt;HN: ??&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.182.110&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="2060" width="120" height="120" as="geometry" />
+          <mxGeometry x="-840" y="2000" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bfKzPdIwmhbEXRQ9fWQ_-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-460" y="1880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-115" value="&lt;div&gt;HN: ??&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.182.106&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="110" y="2220" width="120" height="120" as="geometry" />
+          <mxGeometry x="-520" y="2000" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -589,22 +599,16 @@
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-189" value="&lt;div&gt;32 Hosts&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.182.126/27&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-193" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="1920" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-194" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-194" value=".109" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-720" y="1920" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-195" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-195" value=".108" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-640" y="1920" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-196" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-196" value=".107" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1920" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-197" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="1920" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-198" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-198" value="..105" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1920" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-199" value=".104" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
