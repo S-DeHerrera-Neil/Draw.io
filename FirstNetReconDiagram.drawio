@@ -441,16 +441,16 @@
           <mxGeometry x="1235" y="-4250" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-112" value="&lt;div&gt;red-host-3&lt;/div&gt;&lt;div&gt;172.16.182.114&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- default via&amp;nbsp;&lt;/div&gt;&lt;div&gt;172.16.182.126 dev eth0&lt;/div&gt;- 172.16.182.96/27 dev eth0 proto kernel scope link src 172.16.182.114&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="1700" width="160" height="160" as="geometry" />
+          <mxGeometry x="10" y="1400" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-113" value="&lt;div&gt;red-host-4&lt;/div&gt;&lt;div&gt;172.16.182.118&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;/div&gt;&lt;div&gt;- default via&amp;nbsp;&lt;/div&gt;&lt;div&gt;172.16.182.126 dev eth0&lt;/div&gt;&lt;div&gt;- 172.16.182.96/27 dev eth0 proto kernel scope link src 172.16.182.118&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="1470" width="160" height="160" as="geometry" />
+          <mxGeometry x="210" y="1390" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-114" value="&lt;div&gt;HN: ??&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.182.110&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="1940" width="120" height="120" as="geometry" />
+          <mxGeometry x="-170" y="1550" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-115" value="&lt;div&gt;HN: ??&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.182.106&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="42" y="1970" width="120" height="120" as="geometry" />
+          <mxGeometry x="-340" y="1580" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
