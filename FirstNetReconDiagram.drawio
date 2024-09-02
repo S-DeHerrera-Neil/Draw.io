@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.8">
   <diagram name="Page-1" id="rmTOHtV_TA2U6pFzi0Pf">
-    <mxGraphModel dx="2524" dy="5190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3095" dy="5058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,17 +389,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1489.62" y="-4390" as="targetPoint" />
-            <mxPoint x="1489.6199999999994" y="-4000" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-111" value="&lt;div&gt;eth1 REDNET&lt;/div&gt;&lt;div&gt;172.16.120.10/29&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bfKzPdIwmhbEXRQ9fWQ_-110">
-          <mxGeometry x="-0.4553" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-32" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;RED-SCR&lt;/div&gt;&lt;/div&gt;&lt;div&gt;.30&lt;/div&gt;&lt;div&gt;Ports:&lt;/div&gt;&lt;div&gt;22&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1450" y="-4000" width="80" height="80" as="geometry" />
         </mxCell>
@@ -458,10 +447,10 @@
           <mxGeometry x="-160" y="1470" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-114" value="&lt;div&gt;HN: ??&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.182.110&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="42" y="1360" width="120" height="120" as="geometry" />
+          <mxGeometry x="310" y="1810" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-115" value="&lt;div&gt;HN: ??&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.182.106&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1520" width="120" height="120" as="geometry" />
+          <mxGeometry x="130" y="1810" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bfKzPdIwmhbEXRQ9fWQ_-120">
           <mxGeometry relative="1" as="geometry">
@@ -541,29 +530,6 @@
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-154" value="Permission Issues" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1718" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-155" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1490" y="-4390" as="sourcePoint" />
-            <mxPoint x="-690" y="-4390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-156" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-690" y="-4390" as="sourcePoint" />
-            <mxPoint x="-670" y="1170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-157" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-670" y="1170" as="sourcePoint" />
-            <mxPoint x="10" y="1170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-162" value="&lt;div&gt;eth2 DMZ&lt;/div&gt;&lt;div&gt;172.16.101.30/27&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bfKzPdIwmhbEXRQ9fWQ_-157">
-          <mxGeometry x="0.7729" y="2" relative="1" as="geometry">
-            <mxPoint y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-158" value="&lt;div&gt;RED-SCR&lt;/div&gt;&lt;div&gt;172.16.120.10&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;172.16.101.30/27 &lt;br&gt;&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry y="1100" width="140" height="140" as="geometry" />
         </mxCell>
@@ -613,6 +579,22 @@
           <mxGeometry x="-0.8271" y="11" relative="1" as="geometry">
             <mxPoint x="14" y="-15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-182" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=-0.009;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bfKzPdIwmhbEXRQ9fWQ_-158">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="-4000" as="sourcePoint" />
+            <mxPoint x="-40" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1530" y="-4000" />
+              <mxPoint x="1380" y="-4400" />
+              <mxPoint x="-590" y="-3840" />
+              <mxPoint x="-980" y="-1250" />
+              <mxPoint x="-440" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-183" value="&lt;div&gt;eth2 DMZ&lt;/div&gt;&lt;div&gt;172.16.101.30/27&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1150" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
