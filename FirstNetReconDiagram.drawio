@@ -447,24 +447,10 @@
           <mxGeometry x="-160" y="1470" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-114" value="&lt;div&gt;HN: ??&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.182.110&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1810" width="120" height="120" as="geometry" />
+          <mxGeometry x="-160" y="1940" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-115" value="&lt;div&gt;HN: ??&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.182.106&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1810" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bfKzPdIwmhbEXRQ9fWQ_-120">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-120" value="&lt;div&gt;HN: ??&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;IP: 172.16.140.33&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-760" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-121" value="&lt;br&gt;&lt;div&gt;red-int-dmz-2-host-2&lt;br&gt;IP: 172.16.140.35&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;/div&gt;&lt;div&gt;&lt;div&gt;- default via&amp;nbsp;&lt;/div&gt;&lt;div&gt;172.16.140.62 dev eth0&lt;/div&gt;- 172.16.140.32/27 dev eth0 proto kernel scope link src 172.16.140.35&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-1020" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-124" value="Permission Issues" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-842" width="120" height="30" as="geometry" />
+          <mxGeometry x="42" y="1970" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
