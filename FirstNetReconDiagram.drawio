@@ -494,13 +494,13 @@
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="1740" as="targetPoint" />
+            <mxPoint x="760" y="1740" as="targetPoint" />
             <mxPoint x="560" y="1740" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-144" value="&lt;div&gt;eth1 REDINTDMZ&lt;/div&gt;&lt;div&gt;172.16.140.6/29&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bfKzPdIwmhbEXRQ9fWQ_-143">
           <mxGeometry x="-0.4904" relative="1" as="geometry">
-            <mxPoint x="29" as="offset" />
+            <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-147" value="&lt;div&gt;RED-IPS&lt;/div&gt;&lt;div&gt;172.16.120.18&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -818,7 +818,7 @@
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-255" value="&amp;nbsp;" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bfKzPdIwmhbEXRQ9fWQ_-228">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2070" y="1910" as="sourcePoint" />
-            <mxPoint x="410" y="1710" as="targetPoint" />
+            <mxPoint x="420" y="1720" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2120" y="1790" />
               <mxPoint x="-2000" y="1730" />
