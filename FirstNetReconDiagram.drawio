@@ -564,28 +564,23 @@
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-158" value="&lt;div&gt;RED-SCR&lt;/div&gt;&lt;div&gt;172.16.120.10&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-158" value="&lt;div&gt;RED-SCR&lt;/div&gt;&lt;div&gt;172.16.120.10&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;172.16.101.30/27 &lt;br&gt;&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry y="1100" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bfKzPdIwmhbEXRQ9fWQ_-158">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="441" y="1170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-160" value="&lt;div&gt;eth1 REDNET&lt;/div&gt;&lt;div&gt;172.16.120.10/29&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bfKzPdIwmhbEXRQ9fWQ_-159">
-          <mxGeometry x="-0.7866" y="-3" relative="1" as="geometry">
-            <mxPoint x="18" y="-3" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-164" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bfKzPdIwmhbEXRQ9fWQ_-158">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="1090" as="sourcePoint" />
-            <mxPoint x="740" y="560" as="targetPoint" />
+            <mxPoint x="480" y="560" as="targetPoint" />
             <Array as="points">
               <mxPoint x="120" y="850" />
               <mxPoint x="390" y="820" />
-              <mxPoint x="900" y="710" />
+              <mxPoint x="460" y="700" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-179" value="&lt;div&gt;eth0 INTERNET&lt;/div&gt;&lt;div&gt;172.16.120.1/29&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bfKzPdIwmhbEXRQ9fWQ_-164">
+          <mxGeometry x="-0.9415" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-173" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bfKzPdIwmhbEXRQ9fWQ_-147">
@@ -596,6 +591,27 @@
               <mxPoint x="480" y="970" />
               <mxPoint x="440" y="680" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-178" value="&lt;div&gt;eth0 INTERNET&lt;/div&gt;&lt;div&gt;172.16.120.9&lt;br&gt;&lt;/div&gt;/29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bfKzPdIwmhbEXRQ9fWQ_-173">
+          <mxGeometry x="-0.874" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-180" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1180" as="sourcePoint" />
+            <mxPoint x="590" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1180" />
+              <mxPoint x="260" y="850" />
+              <mxPoint x="590" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-181" value="&lt;div&gt;eth1 REDNET&lt;/div&gt;&lt;div&gt;172.16.120.10/29&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bfKzPdIwmhbEXRQ9fWQ_-180">
+          <mxGeometry x="-0.8271" y="11" relative="1" as="geometry">
+            <mxPoint x="14" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
