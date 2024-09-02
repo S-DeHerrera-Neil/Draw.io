@@ -486,7 +486,7 @@
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-96" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="760" y="1280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-100" value=".17" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-100" value="&lt;div&gt;.17&lt;/div&gt;&lt;div&gt;ports:&lt;/div&gt;&lt;div&gt;23,80&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="1760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bfKzPdIwmhbEXRQ9fWQ_-103" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
