@@ -1241,7 +1241,7 @@
         <mxCell id="0o8acTG7erUhjZBAzDeI-24" value="eth2 DMZ&#xa;172.16.101.30/27" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="275" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0o8acTG7erUhjZBAzDeI-26" value="&lt;div&gt;Red-IPS&lt;/div&gt;172.16.120.1&lt;div&gt;:22&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="0o8acTG7erUhjZBAzDeI-26" value="&lt;div&gt;RED-POP&lt;/div&gt;&lt;div&gt;:22&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="1040" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0o8acTG7erUhjZBAzDeI-28" value="eth1 REDNET&lt;br&gt;172.16.120.18/29" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
