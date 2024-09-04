@@ -83,8 +83,8 @@
         <mxCell id="2dlIjOko7ElrHaeRxo3V-37" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(FTP Server?)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;:21,80&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1700" y="250" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="2dlIjOko7ElrHaeRxo3V-38" value="&lt;div&gt;T4&amp;nbsp;&lt;/div&gt;&lt;div&gt;10.50.39.228&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="630" y="600" width="200" height="200" as="geometry" />
+        <mxCell id="2dlIjOko7ElrHaeRxo3V-38" value="&lt;div&gt;T4 (Pineland&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;10.50.39.228&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="580" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
