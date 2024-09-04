@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="II6Lf9muArxHyPECMsTV-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="80" height="80" as="geometry" />
+        <mxCell id="II6Lf9muArxHyPECMsTV-1" value="10.50.41.243(Atropia)&lt;div&gt;T3 Float IP&lt;/div&gt;&lt;div&gt;:&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
