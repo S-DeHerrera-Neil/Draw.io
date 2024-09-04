@@ -65,11 +65,11 @@
         <mxCell id="2dlIjOko7ElrHaeRxo3V-26" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cortina&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;10.3.0.1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(FTP Server?)&lt;/div&gt;&lt;div&gt;:21,80&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1170" y="400" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="2dlIjOko7ElrHaeRxo3V-31" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="230" as="sourcePoint" />
-            <mxPoint x="1140" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="2dlIjOko7ElrHaeRxo3V-32" value="Local Forwarder&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="930" y="180" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2dlIjOko7ElrHaeRxo3V-33" value="&lt;div&gt;Dynamic Tunnel&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="940" y="375" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
