@@ -57,9 +57,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2dlIjOko7ElrHaeRxo3V-25" value="Tunnel 1. Antropia -&amp;gt; HTTP Server?&lt;div&gt;$ ssh net2_student20@10.50.41.243&amp;nbsp;&lt;/div&gt;&lt;div&gt;-L 22001:10.3.0.1:21 -NT&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="2dlIjOko7ElrHaeRxo3V-24">
-          <mxGeometry x="-0.1868" y="1" width="220" height="60" relative="1" as="geometry">
-            <mxPoint x="-86" y="-30" as="offset" />
+        <mxCell id="2dlIjOko7ElrHaeRxo3V-25" value="Tunnel 1. Antropia -&amp;gt; HTTP Server?&lt;div&gt;$ ssh -D 9050 net2_student20@localhost&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="2dlIjOko7ElrHaeRxo3V-24">
+          <mxGeometry x="-0.1868" y="1" width="250" height="40" relative="1" as="geometry">
+            <mxPoint x="-101" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2dlIjOko7ElrHaeRxo3V-26" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cortina&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;10.3.0.1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(FTP Server?)&lt;/div&gt;&lt;div&gt;:21,80&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
