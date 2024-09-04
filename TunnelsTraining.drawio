@@ -84,7 +84,21 @@
           <mxGeometry x="1700" y="250" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="2dlIjOko7ElrHaeRxo3V-38" value="&lt;div&gt;tunnels-training-pineland-insider&lt;/div&gt;&lt;div&gt;T4 (Pineland&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;10.50.39.228&lt;/div&gt;&lt;div&gt;user:&lt;/div&gt;&lt;div&gt;net2_student20&lt;/div&gt;&lt;div&gt;password:&lt;/div&gt;&lt;div&gt;password20&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="640" y="560" width="200" height="200" as="geometry" />
+          <mxGeometry x="630" y="710" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2dlIjOko7ElrHaeRxo3V-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=38.2608695652174;endSize=14.65217391304348;width=64.34782608695653;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="II6Lf9muArxHyPECMsTV-1" target="2dlIjOko7ElrHaeRxo3V-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="590" as="sourcePoint" />
+            <mxPoint x="910" y="593.87" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2dlIjOko7ElrHaeRxo3V-41" value="Tunnel 1. Antropia -&amp;gt; Pineland&lt;div&gt;&lt;div&gt;$ ssh net2_student20@10.50.39.228&amp;nbsp;&lt;/div&gt;&lt;div&gt;-L 22001:10.3.0.27:23 -NT&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="2dlIjOko7ElrHaeRxo3V-40">
+          <mxGeometry x="-0.1868" y="1" width="220" height="60" relative="1" as="geometry">
+            <mxPoint x="-126" y="-39" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
