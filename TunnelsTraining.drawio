@@ -237,6 +237,20 @@
         <mxCell id="3v3kid2PAzRpHAMXYk9v-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.462;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2dlIjOko7ElrHaeRxo3V-38" target="3v3kid2PAzRpHAMXYk9v-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3v3kid2PAzRpHAMXYk9v-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=25.444234404536864;endSize=12.73913043478261;width=21.73913043478261;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#FF0000;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="990" as="sourcePoint" />
+            <mxPoint x="660" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3v3kid2PAzRpHAMXYk9v-45" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;ssh -D 9050 net2_student20@localhost&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3v3kid2PAzRpHAMXYk9v-44">
+          <mxGeometry x="0.0055" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
