@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10" pages="2">
   <diagram name="Page-1" id="A3ynmZSJMIhbjN7IM4xh">
-    <mxGraphModel dx="3669" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4091" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,7 +187,7 @@
             <mxPoint x="960" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3v3kid2PAzRpHAMXYk9v-26" value=".2&lt;div&gt;:80&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="3v3kid2PAzRpHAMXYk9v-26" value=".2&lt;div&gt;:21,80&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="920" y="1460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3v3kid2PAzRpHAMXYk9v-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3v3kid2PAzRpHAMXYk9v-27">
@@ -195,7 +195,7 @@
             <mxPoint x="1080" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3v3kid2PAzRpHAMXYk9v-27" value=".3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="3v3kid2PAzRpHAMXYk9v-27" value=".3&lt;div&gt;:22,23&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3v3kid2PAzRpHAMXYk9v-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3v3kid2PAzRpHAMXYk9v-28">
@@ -237,19 +237,19 @@
         <mxCell id="3v3kid2PAzRpHAMXYk9v-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.462;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2dlIjOko7ElrHaeRxo3V-38" target="3v3kid2PAzRpHAMXYk9v-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3v3kid2PAzRpHAMXYk9v-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=25.444234404536864;endSize=13.95897435897436;width=32.30769230769231;fillColor=none;strokeColor=#000000;" edge="1" parent="1">
+        <mxCell id="3v3kid2PAzRpHAMXYk9v-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=26.938775510204078;endSize=13.700000000000001;width=27.142857142857146;fillColor=none;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-250" y="500" as="sourcePoint" />
-            <mxPoint x="910" y="1510" as="targetPoint" />
+            <mxPoint x="-230" y="500" as="sourcePoint" />
+            <mxPoint x="910" y="1530" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-250" y="1510" />
-              <mxPoint x="840" y="1510" />
+              <mxPoint x="-240" y="1620" />
+              <mxPoint x="860" y="1540" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3v3kid2PAzRpHAMXYk9v-45" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;ssh -D 9050 net2_student20@localhost -p&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3v3kid2PAzRpHAMXYk9v-44">
+        <mxCell id="3v3kid2PAzRpHAMXYk9v-45" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;ssh -D 9050 net2_student20@localhost -p&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-5;" vertex="1" connectable="0" parent="3v3kid2PAzRpHAMXYk9v-44">
           <mxGeometry x="0.0055" y="1" relative="1" as="geometry">
-            <mxPoint x="139" y="3" as="offset" />
+            <mxPoint x="157" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3v3kid2PAzRpHAMXYk9v-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=25.444234404536864;endSize=12.73913043478261;width=21.73913043478261;fillColor=none;" edge="1" parent="1">
@@ -286,6 +286,18 @@
         </mxCell>
         <mxCell id="A9r2WEHj3VAIetznzeVs-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;:22002&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A9r2WEHj3VAIetznzeVs-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=25.797101449275367;endSize=11.42608695652174;width=21.333333333333332;exitX=1.007;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.676;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-59.5" y="1420" as="sourcePoint" />
+            <mxPoint x="679.5" y="1422" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9r2WEHj3VAIetznzeVs-5" value="ssh net2_student20@10.50.41.243&amp;nbsp; -L 22000:10.3.0.27:80 -NT&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="A9r2WEHj3VAIetznzeVs-4">
+          <mxGeometry x="-0.1868" y="1" width="360" height="30" relative="1" as="geometry">
+            <mxPoint x="-146" y="-14" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
