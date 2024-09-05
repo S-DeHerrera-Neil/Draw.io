@@ -281,10 +281,10 @@
             <mxPoint x="123" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9r2WEHj3VAIetznzeVs-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;:22000&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A9r2WEHj3VAIetznzeVs-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;:22000&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A9r2WEHj3VAIetznzeVs-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;:22002&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A9r2WEHj3VAIetznzeVs-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;:22002&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="730" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
