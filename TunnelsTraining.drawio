@@ -291,7 +291,7 @@
         </mxCell>
         <mxCell id="8VfBYRLKQsaOAB8jmOuh-16" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ssh net2_student20@127.0.0.1 -p 1112 -D 9050 -NT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=30;" vertex="1" connectable="0" parent="8VfBYRLKQsaOAB8jmOuh-13">
           <mxGeometry x="0.2624" y="8" relative="1" as="geometry">
-            <mxPoint x="266" y="152" as="offset" />
+            <mxPoint x="286" y="152" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8VfBYRLKQsaOAB8jmOuh-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=27.5;endSize=17.5125;width=25;" edge="1" parent="1">
