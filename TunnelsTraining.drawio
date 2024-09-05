@@ -45,7 +45,7 @@
             <mxPoint x="-146" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2dlIjOko7ElrHaeRxo3V-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=25.444234404536864;endSize=12.73913043478261;width=21.73913043478261;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" edge="1" source="II6Lf9muArxHyPECMsTV-1">
+        <mxCell id="2dlIjOko7ElrHaeRxo3V-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=25.444234404536864;endSize=12.73913043478261;width=21.73913043478261;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#FF0000;" parent="1" edge="1" source="II6Lf9muArxHyPECMsTV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="390" as="sourcePoint" />
             <mxPoint x="1160" y="390" as="targetPoint" />
@@ -146,9 +146,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VX8xNAOSJWwxGiP82GyC-28" value="ssh net2_student20@10.10.0.40 -L 22000:10.3.0.10:22 -NT&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="VX8xNAOSJWwxGiP82GyC-27">
-          <mxGeometry x="-0.1868" y="1" width="340" height="30" relative="1" as="geometry">
-            <mxPoint x="-136" y="-14" as="offset" />
+        <mxCell id="VX8xNAOSJWwxGiP82GyC-28" value="ssh net2_student20@10.50.41.243 -L 22000:127.0.0.1:22 -NT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="VX8xNAOSJWwxGiP82GyC-27">
+          <mxGeometry x="-0.1868" y="1" width="350" height="30" relative="1" as="geometry">
+            <mxPoint x="-141" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
