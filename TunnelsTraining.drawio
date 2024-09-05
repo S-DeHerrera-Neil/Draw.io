@@ -151,15 +151,17 @@
         </mxCell>
         <mxCell id="3v3kid2PAzRpHAMXYk9v-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="430" as="sourcePoint" />
-            <mxPoint x="540" y="670" as="targetPoint" />
+            <mxPoint x="5" y="430" as="sourcePoint" />
+            <mxPoint x="545" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="420" />
+              <mxPoint x="545" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3v3kid2PAzRpHAMXYk9v-5" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;ssh net2_student20@127.0.0.1 -p 22002&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="3v3kid2PAzRpHAMXYk9v-22" value="ssh net2_student20@127.0.0.1 -p 22002" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3v3kid2PAzRpHAMXYk9v-4">
+          <mxGeometry x="-0.4897" y="-1" relative="1" as="geometry">
+            <mxPoint x="-89" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3v3kid2PAzRpHAMXYk9v-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
