@@ -310,7 +310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JIvhrk2tYygs_DKeOowc" name="Page-2">
-    <mxGraphModel dx="5885" dy="3150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3669" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,26 +458,26 @@
         <mxCell id="8VfBYRLKQsaOAB8jmOuh-4" value="telnet 10.50.32.176" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="-695" y="410" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8VfBYRLKQsaOAB8jmOuh-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=31.90082644628099;endSize=19.418181818181814;width=45.45454545454545;fillColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="8VfBYRLKQsaOAB8jmOuh-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=31.90082644628099;endSize=19.729411764705883;width=32.94117647058824;fillColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-695" y="400" as="sourcePoint" />
+            <mxPoint x="-720" y="400" as="sourcePoint" />
             <mxPoint x="-305" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-640" y="290" />
+              <mxPoint x="-720" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8VfBYRLKQsaOAB8jmOuh-6" value="ssh net2_student20@127.0.0.1 -p 1111 -D 9050 -NT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=15;" vertex="1" connectable="0" parent="8VfBYRLKQsaOAB8jmOuh-5">
+        <mxCell id="8VfBYRLKQsaOAB8jmOuh-6" value="ssh net2_student20@127.0.0.1 -p 1111 -D 9050 -NT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=30;" vertex="1" connectable="0" parent="8VfBYRLKQsaOAB8jmOuh-5">
           <mxGeometry x="-0.1112" y="-4" relative="1" as="geometry">
-            <mxPoint x="61" y="21" as="offset" />
+            <mxPoint x="166" y="78" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8VfBYRLKQsaOAB8jmOuh-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=22.5;endSize=18.037499999999998;width=30;fillColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-770" y="400" as="sourcePoint" />
+            <mxPoint x="-810" y="400" as="sourcePoint" />
             <mxPoint x="10" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-770" y="60" />
+              <mxPoint x="-810" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -488,10 +488,10 @@
         </mxCell>
         <mxCell id="8VfBYRLKQsaOAB8jmOuh-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=24.40191387559808;endSize=18.05454545454545;width=31.578947368421055;fillColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-830" y="390" as="sourcePoint" />
+            <mxPoint x="-860" y="400" as="sourcePoint" />
             <mxPoint x="60" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-840" y="-60" />
+              <mxPoint x="-860" y="-70" />
             </Array>
           </mxGeometry>
         </mxCell>
