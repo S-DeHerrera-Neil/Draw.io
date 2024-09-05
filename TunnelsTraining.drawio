@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JIvhrk2tYygs_DKeOowc" name="Page-2">
-    <mxGraphModel dx="4165" dy="2320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3703" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,7 +112,7 @@
           <mxGeometry x="-950" y="-670" width="1780" height="351.54" as="geometry" />
         </mxCell>
         <mxCell id="BySzZ0Z_b6AMZnMoeA3m-2" value="Blue Internet Host&lt;div&gt;10.10.0.40/27&lt;/div&gt;&lt;div&gt;Float IP&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="400" width="310" height="310" as="geometry" />
+          <mxGeometry x="-1240" y="410" width="545" height="545" as="geometry" />
         </mxCell>
         <mxCell id="BySzZ0Z_b6AMZnMoeA3m-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/firewall-128.png" vertex="1" parent="1">
           <mxGeometry x="-600" y="400" width="180" height="180" as="geometry" />
@@ -294,13 +294,12 @@
             <mxPoint x="73" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8VfBYRLKQsaOAB8jmOuh-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=15;endSize=20.4;width=25;" edge="1" parent="1">
+        <mxCell id="8VfBYRLKQsaOAB8jmOuh-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=27.5;endSize=17.5125;width=25;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-850" y="390" as="sourcePoint" />
             <mxPoint x="430" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-650" y="100" />
-              <mxPoint x="200" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -318,9 +317,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8VfBYRLKQsaOAB8jmOuh-24" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ssh net2_student20@127.0.0.1 -p 1113 -D 9050 -NT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=15;" vertex="1" connectable="0" parent="8VfBYRLKQsaOAB8jmOuh-21">
+        <mxCell id="8VfBYRLKQsaOAB8jmOuh-24" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ssh net2_student20@127.0.0.1 -p 1113 -D 9050 -NT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=20;" vertex="1" connectable="0" parent="8VfBYRLKQsaOAB8jmOuh-21">
           <mxGeometry x="0.6487" y="-4" relative="1" as="geometry">
-            <mxPoint x="16" y="6" as="offset" />
+            <mxPoint x="-234" y="-94" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8VfBYRLKQsaOAB8jmOuh-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=51.282051282051285;endSize=25.251282051282054;endWidth=21.393819855358316;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1045" y="400" as="sourcePoint" />
+            <mxPoint x="910" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-715" y="-210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8VfBYRLKQsaOAB8jmOuh-28" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ssh net2_student20@127.0.0.1 -p 1114 -D 9050 -NT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8VfBYRLKQsaOAB8jmOuh-25">
+          <mxGeometry x="0.3473" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8VfBYRLKQsaOAB8jmOuh-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=38.46153846153846;endSize=14.984615384615385;width=46.15384615384615;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-960" y="390" as="sourcePoint" />
+            <mxPoint x="780" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-650" y="-110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8VfBYRLKQsaOAB8jmOuh-27" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ssh net2_student20@127.0.0.1 -p 1113 -L 1114:192.68.10.69:22 -NT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=19;" vertex="1" connectable="0" parent="8VfBYRLKQsaOAB8jmOuh-26">
+          <mxGeometry x="0.3855" y="7" relative="1" as="geometry">
+            <mxPoint x="-73" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
