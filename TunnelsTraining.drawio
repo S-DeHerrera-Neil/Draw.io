@@ -187,7 +187,7 @@
             <mxPoint x="960" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3v3kid2PAzRpHAMXYk9v-26" value=".2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="3v3kid2PAzRpHAMXYk9v-26" value=".2&lt;div&gt;:80&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="920" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3v3kid2PAzRpHAMXYk9v-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3v3kid2PAzRpHAMXYk9v-27">
