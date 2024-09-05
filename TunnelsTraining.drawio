@@ -109,8 +109,8 @@
         </mxCell>
         <mxCell id="VX8xNAOSJWwxGiP82GyC-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=25.797101449275367;endSize=11.42608695652174;width=21.333333333333332;exitX=1.007;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.676;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="810" as="sourcePoint" />
-            <mxPoint x="1349" y="812" as="targetPoint" />
+            <mxPoint x="570" y="880" as="sourcePoint" />
+            <mxPoint x="1309" y="882" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
