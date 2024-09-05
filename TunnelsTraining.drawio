@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10" pages="2">
   <diagram name="Page-1" id="A3ynmZSJMIhbjN7IM4xh">
-    <mxGraphModel dx="1196" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,22 +69,24 @@
         <mxCell id="2dlIjOko7ElrHaeRxo3V-38" value="&lt;div&gt;tunnels-training-pineland-insider&lt;/div&gt;&lt;div&gt;T4 (Pineland&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;10.50.39.228&lt;/div&gt;&lt;div&gt;user:&lt;/div&gt;&lt;div&gt;net2_student20&lt;/div&gt;&lt;div&gt;password:&lt;/div&gt;&lt;div&gt;password20&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="360" y="720" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="M8kKFFHdJyhkoeXzWgkl-2" value="telnet 10.50.39.228" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=60;" vertex="1" parent="1">
-          <mxGeometry x="165" y="490" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VX8xNAOSJWwxGiP82GyC-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;10.50.39.228&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="770" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VX8xNAOSJWwxGiP82GyC-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;10.50.41.243&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="260" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VX8xNAOSJWwxGiP82GyC-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="VX8xNAOSJWwxGiP82GyC-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=18.51851851851852;endSize=12.698148148148146;endWidth=19.3368700265252;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="717" as="sourcePoint" />
-            <mxPoint x="580" y="410" as="targetPoint" />
+            <mxPoint x="570" y="730" as="sourcePoint" />
+            <mxPoint x="580" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="610" />
+              <mxPoint x="870" y="550" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VX8xNAOSJWwxGiP82GyC-19" value="ssh net2_student20@10.10.0.40 -R 22099 127.0.0.1:22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=26;" vertex="1" connectable="0" parent="VX8xNAOSJWwxGiP82GyC-3">
+          <mxGeometry x="0.5135" y="4" relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VX8xNAOSJWwxGiP82GyC-10" value="ssh -&amp;gt;&lt;div&gt;Atropia&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -98,6 +100,11 @@
               <mxPoint x="150" y="730" />
               <mxPoint x="180" y="840" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VX8xNAOSJWwxGiP82GyC-16" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;telnet -&amp;gt; Pineland&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VX8xNAOSJWwxGiP82GyC-13">
+          <mxGeometry x="-0.9176" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
