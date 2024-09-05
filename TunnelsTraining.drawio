@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10" pages="2">
   <diagram name="Page-1" id="A3ynmZSJMIhbjN7IM4xh">
-    <mxGraphModel dx="2715" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5048" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,15 +268,15 @@
         </mxCell>
         <mxCell id="3v3kid2PAzRpHAMXYk9v-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=25.444234404536864;endSize=12.73913043478261;width=21.73913043478261;fillColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-30" y="510" as="sourcePoint" />
-            <mxPoint x="350" y="880" as="targetPoint" />
+            <mxPoint x="-30" y="503" as="sourcePoint" />
+            <mxPoint x="350" y="873" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-30" y="880" />
-              <mxPoint x="290" y="880" />
+              <mxPoint x="-30" y="873" />
+              <mxPoint x="290" y="873" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3v3kid2PAzRpHAMXYk9v-50" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;ssh -D 9050 net2_student20@localhost -p ????&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3v3kid2PAzRpHAMXYk9v-49">
+        <mxCell id="3v3kid2PAzRpHAMXYk9v-50" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;ssh -D 9050 net2_student20@localhost -p 22002&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3v3kid2PAzRpHAMXYk9v-49">
           <mxGeometry x="0.0055" y="1" relative="1" as="geometry">
             <mxPoint x="123" y="1" as="offset" />
           </mxGeometry>
@@ -285,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JIvhrk2tYygs_DKeOowc" name="Page-2">
-    <mxGraphModel dx="3095" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5885" dy="3150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
