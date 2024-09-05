@@ -117,7 +117,7 @@
         <mxCell id="BySzZ0Z_b6AMZnMoeA3m-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/firewall-128.png" vertex="1" parent="1">
           <mxGeometry x="-600" y="400" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="BySzZ0Z_b6AMZnMoeA3m-6" value="&quot;Rick&quot; Host&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SSHD 22&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="BySzZ0Z_b6AMZnMoeA3m-6" value="&quot;Rick&quot; Host&lt;div&gt;&lt;span style=&quot;color: rgb(10, 208, 0); font-family: monospace; font-size: 16.25px; text-align: start; background-color: rgb(1, 0, 14);&quot;&gt;10.50.32.176&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SSHD 22&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-280" y="400" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="BySzZ0Z_b6AMZnMoeA3m-7" value="&quot;Morty&quot; Host&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SSHD 2222&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
