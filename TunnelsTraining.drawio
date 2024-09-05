@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10" pages="2">
   <diagram name="Page-1" id="A3ynmZSJMIhbjN7IM4xh">
-    <mxGraphModel dx="3095" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4490" dy="1367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,16 +266,16 @@
         </mxCell>
         <mxCell id="A9r2WEHj3VAIetznzeVs-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;endWidth=25.444234404536864;endSize=9.200000000000001;width=40;fillColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="930" as="sourcePoint" />
-            <mxPoint x="910" y="1450" as="targetPoint" />
+            <mxPoint x="20" y="460" as="sourcePoint" />
+            <mxPoint x="905" y="1460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="490" y="1120" />
+              <mxPoint x="460" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9r2WEHj3VAIetznzeVs-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;ssh net2_student20@127.0.0.1 -p 22002 -D 9050&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=40;" vertex="1" connectable="0" parent="A9r2WEHj3VAIetznzeVs-6">
+        <mxCell id="A9r2WEHj3VAIetznzeVs-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;ssh net2_student20@127.0.0.1 -p 22002 -D 9050&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=45;" vertex="1" connectable="0" parent="A9r2WEHj3VAIetznzeVs-6">
           <mxGeometry x="0.0055" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="1" as="offset" />
+            <mxPoint x="300" y="327" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A9r2WEHj3VAIetznzeVs-10" value="10.2.0.1/24" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
