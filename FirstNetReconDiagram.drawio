@@ -1181,7 +1181,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="92-8MXS6Bm7AN1zOBZGW" name="Page-2">
-    <mxGraphModel dx="4855" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1918" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1350,7 +1350,7 @@
         <mxCell id="0o8acTG7erUhjZBAzDeI-61" value="eth0&lt;br&gt;172.16.140.35/27" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1630" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0o8acTG7erUhjZBAzDeI-62" value="172.16.140.32/27" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0o8acTG7erUhjZBAzDeI-62" value="172.16.140.33/27" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="1890" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0o8acTG7erUhjZBAzDeI-63" value="eth0&lt;br&gt;172.16.182.106/27" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
