@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.8" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10" pages="2">
   <diagram name="Page-1" id="rmTOHtV_TA2U6pFzi0Pf">
     <mxGraphModel dx="13710" dy="5467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1181,7 +1181,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="92-8MXS6Bm7AN1zOBZGW" name="Page-2">
-    <mxGraphModel dx="2679" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1919" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1277,7 +1277,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0o8acTG7erUhjZBAzDeI-37" value="REDHOSTS&lt;div&gt;172.16.182.96/27&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="1070" width="280" height="120" as="geometry" />
+          <mxGeometry x="-320" y="1040" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0o8acTG7erUhjZBAzDeI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0o8acTG7erUhjZBAzDeI-38" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1337,7 +1337,7 @@
             <mxPoint x="5" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0o8acTG7erUhjZBAzDeI-54" value="&lt;div&gt;Can&#39;t Access 1&lt;/div&gt;&lt;div&gt;172.16.182.110&lt;/div&gt;&lt;div&gt;:22,80&lt;/div&gt;&lt;div&gt;1980&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" parent="1" vertex="1">
+        <mxCell id="0o8acTG7erUhjZBAzDeI-54" value="&lt;div&gt;Can&#39;t Access 1&lt;/div&gt;&lt;div&gt;172.16.182.110&lt;/div&gt;&lt;div&gt;TCP :22,80,&lt;/div&gt;&lt;div&gt;1980,1982,1988,1989&amp;nbsp;&lt;/div&gt;&lt;div&gt;UDP :&amp;nbsp;&lt;/div&gt;&lt;div&gt;1984,1989&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="-70" y="1320" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0o8acTG7erUhjZBAzDeI-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0o8acTG7erUhjZBAzDeI-55" edge="1">
@@ -1374,8 +1374,8 @@
         <mxCell id="0o8acTG7erUhjZBAzDeI-66" value="eth0&lt;br&gt;172.16.182.118/27" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-390" y="1270" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IOTgDYICVMLMA5pQADqJ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;nmap -Pn -Su {ip/} -p {range} -max-retries 1 or --max-retries 1&amp;nbsp;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1270" width="370" height="620" as="geometry" />
+        <mxCell id="IOTgDYICVMLMA5pQADqJ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;nmap -Pn -Su {ip/} -p {range} -max-retries 1 or --max-retries 1&amp;nbsp;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1520" width="520" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
