@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.12">
   <diagram name="Page-1" id="Jt24NpiZLZz7JYJyaOyY">
-    <mxGraphModel dx="1602" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2452" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lUDLf8eqYiMm10Bzxv3E-1" value="&lt;div&gt;&lt;b&gt;BIH&lt;/b&gt;&lt;/div&gt;&lt;b&gt;10.50.41.223&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="200" height="200" as="geometry" />
+          <mxGeometry x="-250" y="200" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="lUDLf8eqYiMm10Bzxv3E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lUDLf8eqYiMm10Bzxv3E-2">
           <mxGeometry relative="1" as="geometry">
@@ -19,6 +19,28 @@
         </mxCell>
         <mxCell id="lUDLf8eqYiMm10Bzxv3E-2" value="&lt;div&gt;&lt;b&gt;capstone-01&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Float IP&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;10.50.41.227&lt;/b&gt;&lt;/div&gt;&lt;div&gt;:22&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lUDLf8eqYiMm10Bzxv3E-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;width=44;endSize=9;" edge="1" parent="1" source="lUDLf8eqYiMm10Bzxv3E-1" target="lUDLf8eqYiMm10Bzxv3E-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="150" as="sourcePoint" />
+            <mxPoint x="380" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lUDLf8eqYiMm10Bzxv3E-6" value="BIH&amp;gt; ssh net2_student20@10.50.41.227 -L 22001:127.0.0.1:22 -NT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lUDLf8eqYiMm10Bzxv3E-5">
+          <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lUDLf8eqYiMm10Bzxv3E-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;width=44;endSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="199" as="sourcePoint" />
+            <mxPoint x="480" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lUDLf8eqYiMm10Bzxv3E-12" value="ssh net2_student20@127.0.0.1 -p 22001 -D 9050 -NT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lUDLf8eqYiMm10Bzxv3E-9">
+          <mxGeometry y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
