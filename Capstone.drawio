@@ -151,7 +151,7 @@
             <mxPoint x="2094.8900000000003" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lUDLf8eqYiMm10Bzxv3E-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;capstone-04&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.1.1.33&lt;/div&gt;&lt;div&gt;:21,23,80&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="lUDLf8eqYiMm10Bzxv3E-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;capstone-04&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.1.1.33&lt;/div&gt;&lt;div&gt;:21&lt;/div&gt;&lt;div&gt;:23&lt;/div&gt;&lt;div&gt;:80&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2040" y="520" width="109.78" height="109.78" as="geometry" />
         </mxCell>
         <mxCell id="lUDLf8eqYiMm10Bzxv3E-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lUDLf8eqYiMm10Bzxv3E-40">
