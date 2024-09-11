@@ -195,7 +195,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lUDLf8eqYiMm10Bzxv3E-67" value="ssh net2_student20@127.0.0.1 -p 22001 -L 22002:10.1.1.11:23 -NT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="lUDLf8eqYiMm10Bzxv3E-66">
+        <mxCell id="lUDLf8eqYiMm10Bzxv3E-67" value="&lt;b&gt;ssh net2_student20@127.0.0.1 -p 22001 -L 22002:10.1.1.11:23 -NT&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="lUDLf8eqYiMm10Bzxv3E-66">
           <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
             <mxPoint x="643" y="162" as="offset" />
           </mxGeometry>
@@ -211,7 +211,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lUDLf8eqYiMm10Bzxv3E-69" value="ssh net2_student20@10.50.41.227 -L 22001:127.0.0.1:22 -NT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="lUDLf8eqYiMm10Bzxv3E-68">
+        <mxCell id="lUDLf8eqYiMm10Bzxv3E-69" value="&lt;i&gt;ssh net2_student20@10.50.41.227 -L 22001:127.0.0.1:22 -NT&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="lUDLf8eqYiMm10Bzxv3E-68">
           <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
             <mxPoint x="605" y="301" as="offset" />
           </mxGeometry>
@@ -227,7 +227,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lUDLf8eqYiMm10Bzxv3E-71" value="BIH&amp;gt; ssh net2_student20@10.50.41.227 -L 22001:127.0.0.1:22 -NT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="lUDLf8eqYiMm10Bzxv3E-70">
+        <mxCell id="lUDLf8eqYiMm10Bzxv3E-71" value="&lt;i&gt;BIH&amp;gt; ssh net2_student20@10.50.41.227 -L 22001:127.0.0.1:22 -NT&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="lUDLf8eqYiMm10Bzxv3E-70">
           <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
             <mxPoint x="1041" y="95" as="offset" />
           </mxGeometry>
